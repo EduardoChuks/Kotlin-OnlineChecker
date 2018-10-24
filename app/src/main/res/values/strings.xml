@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OnlineChecker</string>
+
+    <string name="toast_check_success">Conectado a Internet</string>
+    <string name="toast_check_failed">Sin conexión a Internet</string>
+</resources>
